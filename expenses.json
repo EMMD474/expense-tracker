@@ -1,0 +1,37 @@
+[
+    {
+        "_id": 1,
+        "description": "lunch",
+        "amount": 20,
+        "date": "2024-12-30T11:39:42.432270",
+        "updated_at": "2024-12-30T12:21:32.770344"
+    },
+    {
+        "_id": 2,
+        "description": "lunch",
+        "amount": 20,
+        "date": "2024-12-30T11:53:29.544255",
+        "updated_at": null
+    },
+    {
+        "_id": 3,
+        "description": "dinner",
+        "amount": 50,
+        "date": "2024-12-30T11:59:06.895783",
+        "updated_at": null
+    },
+    {
+        "_id": 4,
+        "description": "breakfast",
+        "amount": 50,
+        "date": "2025-01-01T08:48:30.393528",
+        "updated_at": null
+    },
+    {
+        "_id": 5,
+        "description": "tester",
+        "amount": 20,
+        "date": "2025-01-01T09:10:05.474956",
+        "updated_at": null
+    }
+]
